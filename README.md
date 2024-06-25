@@ -52,9 +52,9 @@
 #### 微信号: SkyLearningPro
 #### 系统演示地址:
 ```
-登录地址: https://www.skywalking.pro/physical-exam-platform
-登录账号: admin
-登录密码: 123456
+登录地址:https://www.skywalking.pro/health-exam/
+登录账号:admin
+登录密码:123456
 ```
 **若演示地址不可用，可翻到文末扫码联系作者微信或者留言**
 
@@ -254,9 +254,9 @@
 	+ 小程序用户单个删除
 #### 演示地址
 ```
-登录地址: https://www.skywalking.pro/physical-exam-platform
-登录账号: admin
-登录密码: 123456
+登录地址:https://www.skywalking.pro/health-exam/
+登录账号:admin
+登录密码:123456
 ```
 若演示地址不可用，可扫码联系作者微信或者留言
 
